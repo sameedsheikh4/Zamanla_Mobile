@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "603856227554",
+    "project_id": "zamanla",
+    "storage_bucket": "zamanla.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603856227554:android:05606663fb9d83fc2e62bb",
+        "android_client_info": {
+          "package_name": "com.zamanla"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603856227554-uu2erpgdd7q0s9f1vkuhgol2gnn98ph3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zamanla",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "603856227554-obehhh9lsjp2h79a5s1meb3qkifp5sdr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxQBw6V3MUvonThAnISb18jqGdNg6cRrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603856227554-obehhh9lsjp2h79a5s1meb3qkifp5sdr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
